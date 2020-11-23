@@ -13,10 +13,6 @@ A sentiment analysis application that analyzes visitors' comments regarding <str
   <p align="center">Fig 1: May's comments word cloud</p>
 </p>
 
-### Video presentation:
-
-<a href="https://youtu.be/W4HZHAqovEA"><img src="https://i.imgur.com/SqaqC6i.png" alt="NLP PROJECT" width="480px"></a>
-
 
 ### Credits:
 https://zerowithdot.com/colab-github-workflow/
